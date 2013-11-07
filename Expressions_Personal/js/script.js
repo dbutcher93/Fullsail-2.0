@@ -1,6 +1,6 @@
-var Diapers = 15;
-var babyFood = 20;
-var Juice = 2;
+var Diapers = 17;
+var babyFood = 15;
+var Juice = 5;
 
 var babyGroceries = Diapers + babyFood + Juice;
 console.log(babyGroceries);
