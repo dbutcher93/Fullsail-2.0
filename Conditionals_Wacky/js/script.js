@@ -1,4 +1,4 @@
-var chocolateMilkcups = 10;
+var chocolateMilkcups = 3;
 var Children = 8; 
 
 if (chocolateMilkcups >= Children){
