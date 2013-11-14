@@ -1,4 +1,4 @@
-var Steaks = 2;
+var Steaks = 6;
 var steaksNeeded = 5;
 
 
