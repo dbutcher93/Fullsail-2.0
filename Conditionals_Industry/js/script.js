@@ -1,4 +1,4 @@
-var printerInk = true;
+var printerInk = false;
 var printerPaper = false;
 
 if (printerPaper && printerPaper){
