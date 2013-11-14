@@ -1,5 +1,5 @@
-var Steak = 2;
-var steakNeeded = 5;
+var Steaks = 2;
+var steaksNeeded = 5;
 
 
-(Steak <= steakNeeded) ? console.log("You will need to get more steak") : console.log("You have enough steak")
+(Steaks < steaksNeeded) ? console.log("You will need to get more steak") : console.log("You have enough steak")
