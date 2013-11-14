@@ -1,5 +1,5 @@
-var printerInk = false;
-var printerPaper = false;
+var printerInk = true;
+var printerPaper = true;
 
 if (printerPaper && printerPaper){
 
