@@ -1,10 +1,7 @@
-Bills(112, 317, 61, 59);
+Bills(317, 61, 59);
 
-function Bills(Insurance, carPayment, Dish, Internet){
-
-	var Car = Insurance + carPayment;
-	var House = Dish + Internet;
-	var Total = Car + House;
+function Bills(carPayment, Dish, Internet){
+	var Total = carPayment + Dish + Internet;
 	console.log("The total amount of bills for the month is" + Total +)
 }
 
