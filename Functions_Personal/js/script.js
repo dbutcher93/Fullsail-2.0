@@ -1,9 +1,11 @@
-bills(112, 317, 61, 59);
+Bills(112, 317, 61, 59);
 
-function bills(insurance, carPayment, dish, internet){
+function Bills(Insurance, carPayment, Dish, Internet){
 
-	var total = insurance + carPayment + dish + internet;
-	console.log("The total amount of bills for the month is" + total +)
+	var Car = Insurance + carPayment;
+	var House = Dish + Internet;
+	var Total = Car + House;
+	console.log("The total amount of bills for the month is" + Total +)
 }
 
-bills();
+Bills();
