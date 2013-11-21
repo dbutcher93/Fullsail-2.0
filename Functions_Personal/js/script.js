@@ -1,8 +1,12 @@
-Miles (20, 50, 15)
+console.log("---Personal---")
 
-function Miles (day1Miles, day2miles, day3miles){
+Miles(20, 50)
 
-	var Days = 3;
-	var totalMiles = day1Miles + day2miles + day3miles;
-	var Average totalMiles / Days
+function Miles(day1Miles, day2miles) {
+	var Days = 2;
+	var totalMiles = day1Miles + day2miles;
+	var Average = totalMiles / Days
+	console.log("The average number of miles is " + Average + " miles")
 }
+
+Miles();
